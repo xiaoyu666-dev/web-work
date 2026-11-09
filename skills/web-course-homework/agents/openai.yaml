@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web 课程作业"
+  short_description: "依据课程链接完成网页设计作业，严格控制知识范围，附代码说明和知识点对照"
+  default_prompt: "请使用 $web-course-homework，根据我提供的课程知识点链接和作业要求完成网页设计作业，并附代码说明及知识点对照。"
